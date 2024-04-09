@@ -1,0 +1,2654 @@
+[
+  {
+    "date": "04/08/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/08/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/09/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/09/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/10/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/10/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/11/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/11/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/12/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/12/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/13/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/13/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/14/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/14/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/15/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/15/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/16/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/16/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/17/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/17/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/18/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/18/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/19/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/19/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  },
+  {
+    "date": "04/20/2024",
+    "position": "trade-position-1",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 100
+      },
+      {
+        "period": 2,
+        "volume": 100
+      },
+      {
+        "period": 3,
+        "volume": 100
+      },
+      {
+        "period": 4,
+        "volume": 100
+      },
+      {
+        "period": 5,
+        "volume": 100
+      },
+      {
+        "period": 6,
+        "volume": 100
+      },
+      {
+        "period": 7,
+        "volume": 100
+      },
+      {
+        "period": 8,
+        "volume": 100
+      },
+      {
+        "period": 9,
+        "volume": 100
+      },
+      {
+        "period": 10,
+        "volume": 100
+      },
+      {
+        "period": 11,
+        "volume": 100
+      },
+      {
+        "period": 12,
+        "volume": 100
+      },
+      {
+        "period": 13,
+        "volume": 100
+      },
+      {
+        "period": 14,
+        "volume": 100
+      },
+      {
+        "period": 15,
+        "volume": 100
+      },
+      {
+        "period": 16,
+        "volume": 100
+      },
+      {
+        "period": 17,
+        "volume": 100
+      },
+      {
+        "period": 18,
+        "volume": 100
+      },
+      {
+        "period": 19,
+        "volume": 100
+      },
+      {
+        "period": 20,
+        "volume": 100
+      },
+      {
+        "period": 21,
+        "volume": 100
+      },
+      {
+        "period": 22,
+        "volume": 100
+      },
+      {
+        "period": 23,
+        "volume": 100
+      },
+      {
+        "period": 24,
+        "volume": 100
+      }
+    ]
+  },
+  {
+    "date": "04/20/2024",
+    "position": "trade-position-2",
+    "trades": [
+      {
+        "period": 1,
+        "volume": 50
+      },
+      {
+        "period": 2,
+        "volume": 50
+      },
+      {
+        "period": 3,
+        "volume": 50
+      },
+      {
+        "period": 4,
+        "volume": 50
+      },
+      {
+        "period": 5,
+        "volume": 50
+      },
+      {
+        "period": 6,
+        "volume": 50
+      },
+      {
+        "period": 7,
+        "volume": 50
+      },
+      {
+        "period": 8,
+        "volume": 50
+      },
+      {
+        "period": 9,
+        "volume": 50
+      },
+      {
+        "period": 10,
+        "volume": 50
+      },
+      {
+        "period": 11,
+        "volume": 50
+      },
+      {
+        "period": 12,
+        "volume": -20
+      },
+      {
+        "period": 13,
+        "volume": -20
+      },
+      {
+        "period": 14,
+        "volume": -20
+      },
+      {
+        "period": 15,
+        "volume": -20
+      },
+      {
+        "period": 16,
+        "volume": -20
+      },
+      {
+        "period": 17,
+        "volume": -20
+      },
+      {
+        "period": 18,
+        "volume": -20
+      },
+      {
+        "period": 19,
+        "volume": -20
+      },
+      {
+        "period": 20,
+        "volume": -20
+      },
+      {
+        "period": 21,
+        "volume": -20
+      },
+      {
+        "period": 22,
+        "volume": -20
+      },
+      {
+        "period": 23,
+        "volume": -20
+      },
+      {
+        "period": 24,
+        "volume": -20
+      }
+    ]
+  }
+]
